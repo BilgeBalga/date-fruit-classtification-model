@@ -1,4 +1,4 @@
-## Date Fruit Recognition Project
+# Date Fruit Recognition Project
 
 ## Overview
 
