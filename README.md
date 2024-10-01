@@ -1,6 +1,4 @@
-# Date Fruit Recognition Project
-
-Welcome to the **Date Fruit Recognition Project**, developed during the **Advanced Machine Learning and Artificial Intelligence Workshop** with Python, organized by **BTK Akademi** and led by **Dr. Murat Altun**.
+Date Fruit Recognition Project
 
 ## Overview
 
