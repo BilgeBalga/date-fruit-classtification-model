@@ -1,6 +1,33 @@
-# DateFruitClasstificationModel
-Model that predicts dates by type
+# Date Fruit Recognition Project
 
-Data Set: https://www.kaggle.com/datasets/wadhasnalhamdan/date-fruit-image-dataset-in-controlled-environment
+Welcome to the **Date Fruit Recognition Project**, developed during the **Advanced Machine Learning and Artificial Intelligence Workshop** with Python, organized by **BTK Akademi** and led by **Dr. Murat Altun**.
 
-You can take a look at the classification model at the link: https://huggingface.co/spaces/bilgeee/hurmatanima
+## Overview
+
+This project focuses on the classification of date fruits by type using deep learning techniques. We utilized a dataset obtained from Kaggle and applied TensorFlow to develop our model. The project also incorporates various Python libraries for Data Frame creation, data visualization, and visual preprocessing.
+
+## Dataset
+
+The dataset used in this project is available on Kaggle:
+[Date Fruit Image Dataset](https://www.kaggle.com/datasets/wadhasnalhamdan/date-fruit-image-dataset-in-controlled-environment)
+
+## Technologies Used
+
+- **TensorFlow**: For deep learning model implementation.
+- **Python Libraries**:
+  - Pandas: For data manipulation and analysis.
+  - Matplotlib / Seaborn: For data visualization.
+  - OpenCV: For image preprocessing.
+- **Streamlit**: To create a user-friendly web interface for model predictions.
+
+## Web Interface
+
+You can interact with the classification model through the web interface hosted on Hugging Face Spaces:
+[Date Fruit Recognition Model](https://huggingface.co/spaces/bilgeee/hurmatanima)
+
+## How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/date-fruit-recognition.git
+   cd date-fruit-recognition
