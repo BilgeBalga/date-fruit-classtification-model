@@ -24,10 +24,3 @@ The dataset used in this project is available on Kaggle:
 
 You can interact with the classification model through the web interface hosted on Hugging Face Spaces:
 [Date Fruit Recognition Model](https://huggingface.co/spaces/bilgeee/hurmatanima)
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/date-fruit-recognition.git
-   cd date-fruit-recognition
