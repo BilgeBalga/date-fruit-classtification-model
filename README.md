@@ -1,6 +1,6 @@
-Date Fruit Recognition Project
+# Date Fruit Recognition Project
 
-## Overview
+### Overview
 
 This project focuses on the classification of date fruits by type using deep learning techniques. We utilized a dataset obtained from Kaggle and applied TensorFlow to develop our model. The project also incorporates various Python libraries for Data Frame creation, data visualization, and visual preprocessing.
 
